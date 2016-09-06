@@ -1,0 +1,17 @@
+.panel-body{
+	display: none;
+}
+.panel-heading{
+	display: none;
+}
+.panel{
+	display: none;
+}
+#input-container{
+	margin-top: 60px;
+	margin-bottom: 20px;
+	max-width: 600px;
+}
+.container{
+	max-width: 600px;
+}
